@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-47-backend-promql-query-aggregator-for-multi",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-47-backend-promql-query-aggregator-for-multi": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-47-backend-promql-query-aggregator-for-multi",
+    "origin"
+  ]
+}
